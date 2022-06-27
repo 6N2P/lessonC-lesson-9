@@ -22,7 +22,7 @@ namespace Lesson_9._2
             string token = File.ReadAllText(@"C:\Users\Ivanovsv\Desktop\Lessons\Lesson_9\token.txt");
 
             bot = new TelegramBotClient(token);
-            bot.OnMessage += MessageList;
+            bot.OnMessage += MessageListener;
             bot.StartReceiving();
             Console.ReadKey();
             
