@@ -4720,23 +4720,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\Ivanovsv\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#lesson\\lesson_9\\Lesson_9.2\\Lesson_9.2.csproj",
+      "projectUniqueName": "C:\\Users\\Ivanovsv\\Desktop\\Lessons\\lessonC-lesson-9\\Lesson_9.2\\Lesson_9.2.csproj",
       "projectName": "Lesson_9.2",
-      "projectPath": "H:\\C#lesson\\lesson_9\\Lesson_9.2\\Lesson_9.2.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "H:\\C#lesson\\lesson_9\\Lesson_9.2\\obj\\",
+      "projectPath": "C:\\Users\\Ivanovsv\\Desktop\\Lessons\\lessonC-lesson-9\\Lesson_9.2\\Lesson_9.2.csproj",
+      "packagesPath": "C:\\Users\\Ivanovsv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ivanovsv\\Desktop\\Lessons\\lessonC-lesson-9\\Lesson_9.2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ivanovsv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -4787,7 +4790,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }
